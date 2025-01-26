@@ -8,7 +8,7 @@ const App = () => {
             <h5>Start Chat</h5>
           </div>
           <div className="SendBtn border-2 rounded-2xl p-2 cursor-pointer">
-            <h5>Send File</h5>
+            <h5>Send Files</h5>
           </div>
         </div>
       </div>
